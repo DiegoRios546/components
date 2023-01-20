@@ -17,10 +17,11 @@ function App() {
   return (
     <div className="App">
     
-    <Button>github</Button>
-    <Button>github</Button>
-    <Button primary>facebook</Button>
-    <h1>Rios Torres Diego Alexis<h1/>
+    <Button><h1>Rios Torres Diego Alexis</h1></Button>
+    <Button><h2>5B</h2></Button>
+    <Button><a href='https://github.com/DiegoRios546/components.git'>github</a></Button>
+    <Button primary> <a href='https://www.facebook.com/profile.php?id=100014932184855'>facebook</a></Button>
+    
     </div>
   );
 }
