@@ -23,7 +23,7 @@ function App() {
       <h2>Mi nombre es: <span>Rios Torres Diego Alexis</span></h2>
       <div className='buttons-div'>
         <a href='https://www.utd.edu.mx'><Button utd>UTD</Button></a>
-        <a href='https://www.github.com/DiegoProtol'><Button gh>GitHub</Button></a>
+        <a href='https://github.com/DiegoRios546/components.git'><Button gh>GitHub</Button></a>
         <a href='https://www.facebook.com/profile.php?id=100014932184855'><Button fb>Red social</Button></a>
       </div>
       <GoogleMap />
