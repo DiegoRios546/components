@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&family=Prosto+One&display=swap');
+
 *{
-  font-family: Montserrat;
+  font-family:'Courier New', Courier, monospace;
 }
 h1{
   text-align: center;
@@ -9,7 +9,7 @@ h2{
   text-align: center;
 }
 span{
-  color:darkcyan;
+  color:aquamarine;
 }
 .wrapper{
   padding-block: 1rem;
