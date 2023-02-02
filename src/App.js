@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 import './App.css'
 import GoogleMap from './mapsAPI'
+import Carousel from './examen'
 
 const Button = styled.button`
   /* Adapt the colors based on primary prop */
@@ -26,6 +27,7 @@ function App() {
         <a href='https://github.com/DiegoRios546/components.git'><Button gh>GitHub</Button></a>
         <a href='https://www.facebook.com/profile.php?id=100014932184855'><Button fb>Red social</Button></a>
       </div>
+      <Carousel />
       <GoogleMap />
     </div>
     
